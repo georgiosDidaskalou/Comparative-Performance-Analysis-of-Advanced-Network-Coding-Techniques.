@@ -22,7 +22,7 @@ The implementation was carried out in **Python**, utilizing the **PyErasure** li
 
 ## Contents
 This repository includes:
-- `diploma_thesis.pdf`: The full text of the diploma thesis.
+- `Thesis_3217_GDidaskalou.pdf`: The full text of the diploma thesis.
 
 ---
 
